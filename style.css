@@ -1,31 +1,30 @@
 .jumbotron {
-    padding-top: 1cm;
-    background-color: #808080;
+  padding-top: 1cm;
+  background-color: #808080;
 }
 
-
 .about {
-    padding-top: 1cm;
-    padding-bottom: 1cm;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
 }
 
 #projects {
-    background-color: #808080;
+  background-color: #808080;
 }
 
-.baris1{
-    padding-top: 1cm;
-    padding-bottom: 1cm;
+.baris1 {
+  padding-top: 1cm;
+  padding-bottom: 1cm;
 }
 
-.baris2{
-    padding-bottom: 1cm;
+.baris2 {
+  padding-bottom: 1cm;
 }
 
 .jumbotron {
-    padding-top: 4cm;
+  padding-top: 4cm;
 }
 
 section {
-    padding-top: 5rem;
+  padding-top: 5rem;
 }
